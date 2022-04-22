@@ -481,4 +481,4 @@ Architecture discussions and Pull Request help has been provided by [Jacob Kelle
 - [Nestor Vera](https://github.com/hacknug)
 - [K. Vanberendonck](https://github.com/donkeybonks)
 - [Alexey Ukolov](https://github.com/alexey-m-ukolov)
-- some change
+- some new change
